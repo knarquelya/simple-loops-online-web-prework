@@ -37,7 +37,7 @@ end
 
 def for_iterator(number_of_times)
   for_iterator = 1..7
-  for iterator 
+  for iterator in for_iterator
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
   
